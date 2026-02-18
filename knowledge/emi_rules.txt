@@ -1,0 +1,11 @@
+EMI Formula:
+
+EMI = P × r × (1 + r)^n / ((1 + r)^n − 1)
+
+Where:
+P = Loan amount
+r = Monthly interest rate (Annual rate / 12)
+n = Loan tenure in months
+
+EMI includes both principal and interest components.
+Exact values depend on sanctioned rate and loan agreement.

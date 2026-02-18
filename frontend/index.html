@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>BFSI AI Dashboard</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+}
+
+header {
+    background-color: #002f6c;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    height: calc(100vh - 60px);
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #1f2d3d;
+    color: white;
+    padding: 15px;
+}
+
+.sidebar h3 {
+    margin-top: 0;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.chat-box {
+    flex: 1;
+    background: white;
+    border-radius: 8px;
+    padding: 15px;
+    overflow-y: auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.message {
+    margin-bottom: 15px;
+}
+
+.user {
+    text-align: right;
+}
+
+.assistant {
+    text-align: left;
+}
+
+.badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    color: white;
+    margin-top: 5px;
+}
+
+.DATASET { background: #007bff; }
+.LLM { background: #28a745; }
+.RAG { background: #6f42c1; }
+.DETERMINISTIC_EMI, .DETERMINISTIC_INTEREST { background: #dc3545; }
+
+.input-area {
+    margin-top: 10px;
+    display: flex;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #002f6c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<header>BFSI Call Center AI Assistant</header>
+
+<div class="container">
+    <div class="sidebar">
+        <h2 style="margin-bottom:20px;">⚙ System Dashboard</h2>
+
+        <div style="margin-bottom:25px;">
+            <h4 style="margin:0 0 10px 0;">AI Model</h4>
+            <p style="margin:0;">TinyLlama (Local)</p>
+            <p style="margin:5px 0 0 0; font-size:12px; color:#9db4d1;">Inference Mode: Deterministic</p>
+        </div>
+
+        <div style="margin-bottom:25px;">
+            <h4 style="margin:0 0 10px 0;">Architecture Layers</h4>
+            <ul style="list-style:none; padding-left:0; font-size:14px;">
+                <li>🛡 Deterministic Financial Layer</li>
+                <li>📊 Dataset Similarity (FAISS)</li>
+                <li>🔎 RAG Retrieval Engine</li>
+                <li>🧠 Controlled LLM Generation</li>
+                <li>✅ Compliance Filter</li>
+            </ul>
+        </div>
+
+        <div style="margin-bottom:25px;">
+            <h4 style="margin:0 0 10px 0;">System Status</h4>
+            <p style="margin:0;">API: <span style="color:#28a745;">● Online</span></p>
+            <p style="margin:5px 0 0 0;">Vector Index: <span style="color:#28a745;">● Loaded</span></p>
+            <p style="margin:5px 0 0 0;">LLM Engine: <span style="color:#28a745;">● Active</span></p>
+        </div>
+
+        <div>
+            <h4 style="margin:0 0 10px 0;">Environment</h4>
+            <p style="margin:0; font-size:12px;">Local Development</p>
+            <p style="margin:5px 0 0 0; font-size:12px;">FastAPI v1.0</p>
+        </div>
+    </div>
+
+
+    <div class="main">
+        <div class="chat-box" id="chatBox"></div>
+
+        <div class="input-area">
+            <input type="text" id="queryInput" placeholder="Enter your query..." />
+            <button onclick="sendQuery()">Send</button>
+        </div>
+    </div>
+</div>
+
+<script>
+async function sendQuery() {
+    const input = document.getElementById("queryInput");
+    const chatBox = document.getElementById("chatBox");
+
+    const query = input.value.trim();
+    if (!query) return;
+
+    chatBox.innerHTML += `<div class="message user"><b>You:</b> ${query}</div>`;
+    input.value = "";
+
+    const startTime = performance.now();
+
+    const response = await fetch("http://127.0.0.1:8000/query", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({ query: query })
+    });
+
+    const data = await response.json();
+    const endTime = performance.now();
+    const duration = ((endTime - startTime)/1000).toFixed(2);
+
+    chatBox.innerHTML += `
+        <div class="message assistant">
+            <b>Assistant:</b> ${data.response}
+            <div style="font-size:12px;color:gray;">
+                Response time: ${duration}s
+            </div>
+        </div>
+    `;
+
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1102 @@
+[
+  {
+    "instruction": "Provide information about personal loan eligibility.",
+    "input": "Am I eligible for a personal loan?",
+    "output": "Personal loan eligibility is determined based on income level, employment stability, credit score, and existing financial obligations. Final approval is subject to internal credit evaluation and policy guidelines."
+  },
+  {
+    "instruction": "Explain minimum income requirement for loan eligibility.",
+    "input": "What is the minimum income required for a personal loan?",
+    "output": "Minimum income requirements vary depending on the loan type and policy. Eligibility is assessed based on consistent income, repayment capacity, and internal credit standards."
+  },
+  {
+    "instruction": "Explain eligibility criteria for salaried individuals.",
+    "input": "Are salaried employees eligible for personal loans?",
+    "output": "Salaried individuals may be eligible for personal loans if they meet income stability, employment continuity, and credit score requirements as per internal bank policy."
+  },
+  {
+    "instruction": "Explain eligibility criteria for self-employed applicants.",
+    "input": "Can self-employed individuals apply for a loan?",
+    "output": "Self-employed individuals may apply for loans subject to income proof, business stability, tax filings, and compliance with internal underwriting standards."
+  },
+  {
+    "instruction": "Provide age eligibility details.",
+    "input": "What is the minimum age requirement for applying for a loan?",
+    "output": "Loan applicants must meet the minimum age requirement as defined by internal policy. Age criteria vary by product and are verified during application processing."
+  },
+  {
+    "instruction": "Explain credit score impact on loan eligibility.",
+    "input": "Does my credit score affect my loan approval?",
+    "output": "Yes, credit score plays a significant role in loan eligibility assessment. A stronger credit history generally improves approval probability and loan terms."
+  },
+  {
+    "instruction": "Provide home loan eligibility information.",
+    "input": "How do I know if I qualify for a home loan?",
+    "output": "Home loan qualification depends on income, credit profile, loan tenure, property valuation, and repayment capacity. Final determination is made after internal credit evaluation."
+  },
+  {
+    "instruction": "Explain debt-to-income ratio consideration.",
+    "input": "Does existing loan affect my eligibility for a new loan?",
+    "output": "Existing loans and financial commitments are considered during eligibility assessment. Repayment capacity and debt-to-income ratio are evaluated before approval."
+  },
+  {
+    "instruction": "Explain co-applicant eligibility.",
+    "input": "Can I apply for a loan with a co-applicant?",
+    "output": "Yes, loans may be applied jointly with a co-applicant. Joint applications may improve eligibility subject to combined income and credit evaluation."
+  },
+  {
+    "instruction": "Provide documentation requirement overview.",
+    "input": "What documents are required to check loan eligibility?",
+    "output": "Typical documents include identity proof, address proof, income documents, and bank statements. Additional documentation may be requested during evaluation."
+  },
+  {
+    "instruction": "Explain employment tenure requirement.",
+    "input": "Is there a minimum employment period required?",
+    "output": "Yes, applicants are generally required to meet minimum employment tenure criteria to demonstrate income stability as per policy guidelines."
+  },
+  {
+    "instruction": "Explain business vintage requirement.",
+    "input": "Is business experience required for self-employed applicants?",
+    "output": "Yes, self-employed applicants must demonstrate business stability and operational continuity as required under internal lending policy."
+  },
+  {
+    "instruction": "Explain eligibility rejection reasons.",
+    "input": "Why was my loan application rejected?",
+    "output": "Loan applications may be declined due to credit evaluation results, insufficient income stability, documentation discrepancies, or policy non-compliance."
+  },
+  {
+    "instruction": "Provide eligibility check procedure.",
+    "input": "How can I check my loan eligibility?",
+    "output": "Loan eligibility may be checked through preliminary assessment tools or by submitting required documents for evaluation under internal credit policy."
+  },
+  {
+    "instruction": "Explain impact of late payments on eligibility.",
+    "input": "Will late payments in my history affect loan approval?",
+    "output": "Late payment history may impact eligibility and approval decisions, as repayment behavior is evaluated during credit assessment."
+  },
+  {
+    "instruction": "Provide eligibility information for first-time borrowers.",
+    "input": "Can I get a loan if I have no credit history?",
+    "output": "First-time borrowers may be considered based on income profile, stability, and additional risk assessment measures as defined by internal policy."
+  },
+  {
+    "instruction": "Explain eligibility for government employees.",
+    "input": "Are government employees eligible for home loans?",
+    "output": "Government employees may apply for home loans subject to meeting income and credit evaluation standards."
+  },
+  {
+    "instruction": "Explain eligibility for contract workers.",
+    "input": "Can contract employees apply for loans?",
+    "output": "Contract employees may be eligible subject to proof of income consistency and policy guidelines."
+  },
+  {
+    "instruction": "Explain impact of multiple inquiries.",
+    "input": "Does applying to many banks affect eligibility?",
+    "output": "Multiple credit inquiries within a short period may impact credit evaluation, which can influence loan eligibility."
+  },
+  {
+    "instruction": "Provide explanation about loan tenure impact.",
+    "input": "Does loan tenure affect eligibility?",
+    "output": "Loan tenure may influence eligibility as repayment capacity is assessed over the chosen duration."
+  },
+  {
+    "instruction": "Explain eligibility review timeline.",
+    "input": "How long does eligibility assessment take?",
+    "output": "Eligibility assessment timelines vary depending on documentation completeness and internal review procedures."
+  },
+  {
+    "instruction": "Explain eligibility for high-value loans.",
+    "input": "Are eligibility rules different for high loan amounts?",
+    "output": "Higher loan amounts may require stricter income verification and enhanced credit evaluation as per policy."
+  },
+  {
+    "instruction": "Provide explanation on income verification.",
+    "input": "Is income verification mandatory?",
+    "output": "Yes, income verification is mandatory to assess repayment capacity and comply with regulatory standards."
+  },
+  {
+    "instruction": "Explain eligibility for retired individuals.",
+    "input": "Can retired individuals apply for loans?",
+    "output": "Retired individuals may be eligible depending on pension income stability and policy requirements."
+  },
+  {
+    "instruction": "Explain pre-approved eligibility concept.",
+    "input": "What does pre-approved loan eligibility mean?",
+    "output": "Pre-approved eligibility indicates a preliminary assessment based on available financial data. Final approval is subject to full documentation review."
+  },
+  {
+    "instruction": "Explain what EMI means.",
+    "input": "What is EMI?",
+    "output": "EMI stands for Equated Monthly Installment. It is the fixed monthly amount paid by a borrower towards loan repayment, covering both principal and interest components."
+  },
+  {
+    "instruction": "Explain how EMI is calculated.",
+    "input": "How is EMI calculated?",
+    "output": "EMI is calculated based on the loan principal, applicable interest rate, and repayment tenure using a standardized amortization formula."
+  },
+  {
+    "instruction": "Explain EMI calculation for home loans.",
+    "input": "How is EMI calculated for a home loan?",
+    "output": "Home loan EMI is calculated using the loan amount, interest rate, and tenure. The repayment structure distributes interest and principal across the loan duration."
+  },
+  {
+    "instruction": "Explain factors affecting EMI.",
+    "input": "What factors affect my EMI amount?",
+    "output": "EMI amount depends on the loan principal, interest rate, tenure, and repayment structure approved during loan sanction."
+  },
+  {
+    "instruction": "Explain EMI for shorter tenure.",
+    "input": "Will EMI increase if I choose a shorter tenure?",
+    "output": "Yes, selecting a shorter tenure generally increases the EMI amount, as the loan is repaid over fewer installments."
+  },
+  {
+    "instruction": "Explain EMI for longer tenure.",
+    "input": "Does longer tenure reduce EMI?",
+    "output": "A longer tenure may reduce monthly EMI, but it can increase the total interest payable over the loan duration."
+  },
+  {
+    "instruction": "Explain principal component in EMI.",
+    "input": "Does EMI include principal repayment?",
+    "output": "Yes, EMI includes both principal repayment and interest components, distributed according to the amortization schedule."
+  },
+  {
+    "instruction": "Explain interest component in EMI.",
+    "input": "Is interest included in EMI?",
+    "output": "Yes, EMI includes the applicable interest charged on the outstanding loan balance."
+  },
+  {
+    "instruction": "Explain EMI breakdown.",
+    "input": "Can I get EMI breakup details?",
+    "output": "Yes, EMI breakup details show the principal and interest portions for each installment in the amortization schedule."
+  },
+  {
+    "instruction": "Explain EMI recalculation.",
+    "input": "Will my EMI change if interest rate changes?",
+    "output": "In case of floating interest rate loans, EMI or tenure may be adjusted depending on policy guidelines and repayment structure."
+  },
+  {
+    "instruction": "Explain EMI during moratorium.",
+    "input": "Do I pay EMI during loan moratorium?",
+    "output": "EMI payment terms during a moratorium period depend on loan agreement conditions and policy provisions."
+  },
+  {
+    "instruction": "Explain partial prepayment impact.",
+    "input": "Does partial prepayment reduce EMI?",
+    "output": "Partial prepayment may reduce either EMI or tenure based on customer selection and loan policy guidelines."
+  },
+  {
+    "instruction": "Explain foreclosure effect.",
+    "input": "What happens if I foreclose my loan early?",
+    "output": "Early foreclosure may reduce total interest payable but may involve applicable charges based on policy terms."
+  },
+  {
+    "instruction": "Explain missed EMI impact.",
+    "input": "What happens if I miss an EMI?",
+    "output": "Missing an EMI may result in penalties and impact credit history as per lending policy."
+  },
+  {
+    "instruction": "Explain EMI for fixed rate loan.",
+    "input": "Is EMI fixed for fixed-rate loans?",
+    "output": "Yes, EMI generally remains constant during the fixed-rate period unless otherwise specified in the loan agreement."
+  },
+  {
+    "instruction": "Explain EMI for floating rate loan.",
+    "input": "Is EMI constant in floating interest loans?",
+    "output": "In floating-rate loans, EMI or tenure may be revised based on changes in benchmark rates and policy conditions."
+  },
+  {
+    "instruction": "Explain EMI start date.",
+    "input": "When does EMI start after loan disbursement?",
+    "output": "EMI typically begins from the month following loan disbursement as defined in the sanction terms."
+  },
+  {
+    "instruction": "Explain step-up EMI option.",
+    "input": "What is step-up EMI?",
+    "output": "Step-up EMI allows lower initial installments followed by gradually increasing installments as defined in the repayment agreement."
+  },
+  {
+    "instruction": "Explain step-down EMI option.",
+    "input": "What is step-down EMI?",
+    "output": "Step-down EMI allows higher initial installments followed by reduced payments later, based on repayment structuring options."
+  },
+  {
+    "instruction": "Explain auto-debit for EMI.",
+    "input": "How is EMI collected each month?",
+    "output": "EMI is generally collected through auto-debit instructions from the registered bank account as per mandate authorization."
+  },
+  {
+    "instruction": "Explain EMI rescheduling.",
+    "input": "Can my EMI schedule be changed?",
+    "output": "EMI rescheduling may be possible subject to policy guidelines and repayment assessment."
+  },
+  {
+    "instruction": "Explain impact of loan top-up.",
+    "input": "Will EMI change if I take a top-up loan?",
+    "output": "A top-up loan may result in EMI revision depending on the combined loan structure and tenure."
+  },
+  {
+    "instruction": "Explain EMI calculation transparency.",
+    "input": "How can I verify EMI calculation?",
+    "output": "EMI calculation can be verified using amortization schedules provided during loan approval."
+  },
+  {
+    "instruction": "Explain advance EMI payment.",
+    "input": "Can I pay EMI in advance?",
+    "output": "Advance EMI payment may be permitted subject to loan agreement terms and applicable policy guidelines."
+  },
+  {
+    "instruction": "Explain EMI deduction failure.",
+    "input": "What if EMI auto-debit fails?",
+    "output": "In case of auto-debit failure, customers must ensure timely manual payment to avoid penalties."
+  },
+  {
+    "instruction": "Explain EMI charge clarity.",
+    "input": "Are there hidden charges in EMI?",
+    "output": "EMI includes agreed principal and interest only. Any applicable additional charges are disclosed in the loan agreement."
+  },
+  {
+    "instruction": "Explain interest rate impact on EMI.",
+    "input": "If interest rate increases, will EMI increase?",
+    "output": "In floating-rate loans, EMI or tenure adjustments may occur when interest rates change."
+  },
+  {
+    "instruction": "Explain EMI grace period.",
+    "input": "Is there a grace period for EMI payment?",
+    "output": "Grace periods, if applicable, are defined in the loan agreement and subject to policy conditions."
+  },
+  {
+    "instruction": "Explain EMI reminder notification.",
+    "input": "Will I receive EMI reminders?",
+    "output": "Yes, reminder notifications may be sent prior to due dates as part of customer service support."
+  },
+  {
+    "instruction": "Explain EMI deduction transparency.",
+    "input": "Where can I see EMI deductions?",
+    "output": "EMI deductions can be viewed in bank statements and loan account statements."
+  },
+  {
+  "instruction": "Explain loan interest rate.",
+  "input": "What is the interest rate on personal loans?",
+  "output": "Interest rates vary based on product type, applicant profile, and internal credit evaluation. Final applicable rate is communicated during loan approval."
+},
+{
+  "instruction": "Explain fixed interest rate.",
+  "input": "What is a fixed interest rate loan?",
+  "output": "A fixed interest rate loan maintains the same interest rate during the agreed fixed period as per the loan agreement."
+},
+{
+  "instruction": "Explain floating interest rate.",
+  "input": "What is a floating interest rate?",
+  "output": "A floating interest rate may vary over time based on benchmark rates and internal policy conditions."
+},
+{
+  "instruction": "Explain difference between fixed and floating rates.",
+  "input": "What is the difference between fixed and floating interest rates?",
+  "output": "Fixed rates remain constant during the defined period, while floating rates may change based on benchmark revisions."
+},
+{
+  "instruction": "Explain interest calculation method.",
+  "input": "How is loan interest calculated?",
+  "output": "Loan interest is calculated based on the outstanding principal and applicable interest rate as defined in the loan agreement."
+},
+{
+  "instruction": "Explain reducing balance interest.",
+  "input": "What is reducing balance interest calculation?",
+  "output": "In reducing balance calculation, interest is computed on the remaining principal after each EMI payment."
+},
+{
+  "instruction": "Explain flat rate interest.",
+  "input": "What is flat rate interest?",
+  "output": "Flat rate interest is calculated on the full principal amount for the entire loan tenure, irrespective of repayments."
+},
+{
+  "instruction": "Explain processing fees.",
+  "input": "Are there processing charges for loans?",
+  "output": "Processing charges may apply depending on product type and are disclosed during loan application."
+},
+{
+  "instruction": "Explain late payment penalty.",
+  "input": "What happens if I pay EMI late?",
+  "output": "Late payment may result in applicable penalty charges and impact credit history."
+},
+{
+  "instruction": "Explain prepayment charges.",
+  "input": "Are there charges for loan prepayment?",
+  "output": "Prepayment charges, if applicable, are defined in the loan agreement and depend on loan type."
+},
+{
+  "instruction": "Explain foreclosure charges.",
+  "input": "Is there a fee for closing loan early?",
+  "output": "Foreclosure charges may apply based on product policy and repayment terms."
+},
+{
+  "instruction": "Explain bounce charges.",
+  "input": "What are EMI bounce charges?",
+  "output": "Bounce charges may be levied if EMI payment fails due to insufficient funds or mandate failure."
+},
+{
+  "instruction": "Explain penal interest.",
+  "input": "What is penal interest?",
+  "output": "Penal interest is an additional charge applied in case of overdue payments as per lending policy."
+},
+{
+  "instruction": "Explain GST on loan charges.",
+  "input": "Is tax applied on loan charges?",
+  "output": "Applicable taxes may be levied on processing or service charges as per regulatory requirements."
+},
+{
+  "instruction": "Explain interest rate revision.",
+  "input": "When does interest rate change?",
+  "output": "Interest rate revisions may occur in floating-rate loans based on benchmark rate changes."
+},
+{
+  "instruction": "Explain annual percentage rate.",
+  "input": "What is APR in loans?",
+  "output": "APR represents the annual percentage rate including interest and certain charges expressed as yearly cost of borrowing."
+},
+{
+  "instruction": "Explain compound interest.",
+  "input": "What is compound interest?",
+  "output": "Compound interest is calculated on both principal and accumulated interest over a defined period."
+},
+{
+  "instruction": "Explain simple interest.",
+  "input": "What is simple interest?",
+  "output": "Simple interest is calculated only on the principal amount over the loan tenure."
+},
+{
+  "instruction": "Explain interest reset period.",
+  "input": "What is an interest reset period?",
+  "output": "Interest reset period defines how frequently the interest rate may be revised in floating-rate loans."
+},
+{
+  "instruction": "Explain interest certificate.",
+  "input": "How do I get my loan interest certificate?",
+  "output": "Interest certificates can be requested through official banking channels or downloaded from online portals if available."
+},
+{
+  "instruction": "Explain service charges.",
+  "input": "Are there service charges apart from EMI?",
+  "output": "Service charges, if any, are disclosed in the loan agreement and communicated transparently."
+},
+{
+  "instruction": "Explain part-payment interest impact.",
+  "input": "Does part-payment reduce interest burden?",
+  "output": "Part-payment may reduce outstanding principal, thereby lowering future interest payable."
+},
+{
+  "instruction": "Explain interest during grace period.",
+  "input": "Does interest accrue during EMI grace period?",
+  "output": "Interest accrual during grace period depends on loan agreement terms and policy provisions."
+},
+{
+  "instruction": "Explain penalty disclosure.",
+  "input": "Where can I see penalty charges?",
+  "output": "Penalty charges are disclosed in the loan agreement and may be viewed in loan account statements."
+},
+{
+  "instruction": "Explain interest transparency.",
+  "input": "How can I verify applied interest rate?",
+  "output": "Applied interest rate is documented in the sanction letter and loan agreement issued at approval."
+},
+{
+  "instruction": "Explain bank account opening process.",
+  "input": "How can I open a bank account?",
+  "output": "Bank account opening requires submission of identity proof, address proof, and completion of KYC verification as per regulatory guidelines."
+},
+{
+  "instruction": "Explain online account opening.",
+  "input": "Can I open an account online?",
+  "output": "Online account opening may be available subject to digital KYC verification and policy compliance."
+},
+{
+  "instruction": "Explain required documents for account opening.",
+  "input": "What documents are needed to open a savings account?",
+  "output": "Account opening typically requires valid identity proof, address proof, and recent photographs as per KYC guidelines."
+},
+{
+  "instruction": "Explain minimum balance requirement.",
+  "input": "Is there a minimum balance requirement?",
+  "output": "Minimum balance requirements depend on the account type and are specified in product terms and conditions."
+},
+{
+  "instruction": "Explain joint account opening.",
+  "input": "Can I open a joint bank account?",
+  "output": "Joint accounts may be opened with co-applicants, subject to completion of documentation and KYC verification."
+},
+{
+  "instruction": "Explain minor account opening.",
+  "input": "Can I open an account for my child?",
+  "output": "Accounts for minors may be opened under guardian supervision as per regulatory and policy guidelines."
+},
+{
+  "instruction": "Explain account activation timeline.",
+  "input": "How long does it take to activate a new account?",
+  "output": "Account activation timelines vary based on document verification and internal processing procedures."
+},
+{
+  "instruction": "Explain account closure process.",
+  "input": "How can I close my bank account?",
+  "output": "Account closure requires submission of a written request or formal application, subject to settlement of outstanding balances and internal verification."
+},
+{
+  "instruction": "Explain online account closure.",
+  "input": "Can I close my account online?",
+  "output": "Online account closure options may be available depending on product type and policy guidelines."
+},
+{
+  "instruction": "Explain closure charges.",
+  "input": "Are there charges for closing an account?",
+  "output": "Account closure charges, if applicable, are outlined in the account terms and conditions."
+},
+{
+  "instruction": "Explain dormant account status.",
+  "input": "Why is my account marked as dormant?",
+  "output": "Accounts may be marked dormant if there are no transactions for a defined period as per regulatory norms."
+},
+{
+  "instruction": "Explain reactivation of dormant account.",
+  "input": "How do I reactivate my dormant account?",
+  "output": "Dormant accounts may be reactivated upon completion of KYC verification and account validation procedures."
+},
+{
+  "instruction": "Explain account freezing.",
+  "input": "Why is my bank account frozen?",
+  "output": "Accounts may be temporarily restricted due to regulatory compliance checks, documentation issues, or security concerns."
+},
+{
+  "instruction": "Explain account unfreezing procedure.",
+  "input": "How can I unfreeze my bank account?",
+  "output": "Account unfreezing requires verification and submission of requested documentation as per compliance requirements."
+},
+{
+  "instruction": "Explain account transfer process.",
+  "input": "Can I transfer my account to another branch?",
+  "output": "Account transfer between branches may be requested subject to internal verification procedures."
+},
+{
+  "instruction": "Explain nominee addition process.",
+  "input": "How do I add a nominee to my bank account?",
+  "output": "Nominee addition requires submission of a formal request and updated documentation as per account policy."
+},
+{
+  "instruction": "Explain nominee removal process.",
+  "input": "Can I change or remove my nominee?",
+  "output": "Nominee changes may be processed upon submission of a valid request form and necessary documentation."
+},
+{
+  "instruction": "Explain address update process.",
+  "input": "How do I update my address in bank records?",
+  "output": "Address updates require submission of valid address proof and completion of verification procedures."
+},
+{
+  "instruction": "Explain mobile number update process.",
+  "input": "How can I update my registered mobile number?",
+  "output": "Mobile number updates require identity verification and completion of secure update procedures."
+},
+{
+  "instruction": "Explain account statement request.",
+  "input": "How can I get my bank statement?",
+  "output": "Bank statements may be accessed via online banking platforms or requested through customer support channels."
+},
+{
+  "instruction": "Explain late payment fee on loan.",
+  "input": "Is there a late fee if I miss my EMI?",
+  "output": "Late payment fees may apply if EMI is not paid by the due date. Applicable charges are defined in the loan agreement."
+},
+{
+  "instruction": "Explain credit score impact of late EMI.",
+  "input": "Will late EMI affect my credit score?",
+  "output": "Delayed EMI payments may be reported to credit bureaus and can impact credit history."
+},
+{
+  "instruction": "Explain penalty for missed credit card payment.",
+  "input": "What happens if I miss my credit card payment?",
+  "output": "Missing a credit card payment may result in late fees, additional interest, and potential impact on credit score."
+},
+{
+  "instruction": "Explain overdue penalty interest.",
+  "input": "Is interest charged on overdue EMI?",
+  "output": "Additional penal interest may apply on overdue amounts as specified in the loan agreement."
+},
+{
+  "instruction": "Explain cheque bounce charges.",
+  "input": "What are cheque bounce charges?",
+  "output": "Bounce charges may apply if a cheque issued for EMI or repayment is dishonored due to insufficient funds."
+},
+{
+  "instruction": "Explain auto-debit failure penalty.",
+  "input": "What happens if auto-debit fails?",
+  "output": "Auto-debit failure may result in penalty charges and require manual payment to avoid further penalties."
+},
+{
+  "instruction": "Explain repeated late payment consequences.",
+  "input": "What if I pay late multiple times?",
+  "output": "Repeated late payments may attract additional penalties and impact credit evaluation for future products."
+},
+{
+  "instruction": "Explain minimum due payment consequences.",
+  "input": "Is paying minimum due enough?",
+  "output": "Paying only the minimum due on credit facilities may result in continued interest accrual on the outstanding balance."
+},
+{
+  "instruction": "Explain foreclosure delay penalty.",
+  "input": "Are there penalties for delayed foreclosure processing?",
+  "output": "Foreclosure processing timelines depend on documentation submission. Delays may not incur penalties unless stated in policy."
+},
+{
+  "instruction": "Explain settlement impact on credit.",
+  "input": "Does loan settlement affect credit score?",
+  "output": "Loan settlements may be reflected in credit reports and can impact credit score evaluation."
+},
+{
+  "instruction": "Explain EMI grace period penalty.",
+  "input": "Is there a grace period before late fee applies?",
+  "output": "Grace periods, if available, are defined in the loan agreement. Penalties may apply beyond the allowed timeframe."
+},
+{
+  "instruction": "Explain overdue notice charges.",
+  "input": "Are there charges for overdue notices?",
+  "output": "Certain communication or reminder charges may apply as per loan agreement terms."
+},
+{
+  "instruction": "Explain legal action due to default.",
+  "input": "What happens if I continuously default on EMI?",
+  "output": "Persistent non-payment may result in recovery proceedings in accordance with regulatory and policy guidelines."
+},
+{
+  "instruction": "Explain penalty reversal eligibility.",
+  "input": "Can late fees be waived?",
+  "output": "Penalty waivers may be considered on a case-by-case basis subject to policy discretion."
+},
+{
+  "instruction": "Explain credit card late fee structure.",
+  "input": "How are credit card late fees calculated?",
+  "output": "Credit card late fees are applied based on outstanding balance slabs as defined in the card agreement."
+},
+{
+  "instruction": "Explain EMI partial payment penalty.",
+  "input": "If I pay partial EMI, will penalty apply?",
+  "output": "Partial EMI payments may result in overdue charges on the remaining unpaid amount."
+},
+{
+  "instruction": "Explain loan recall consequences.",
+  "input": "Can bank recall the loan due to non-payment?",
+  "output": "Severe or prolonged default may trigger recall procedures as per loan agreement terms."
+},
+{
+  "instruction": "Explain impact of payment delay on future eligibility.",
+  "input": "Will late payment affect my future loan eligibility?",
+  "output": "Payment delays may impact credit assessment for future loan applications."
+},
+{
+  "instruction": "Explain administrative charges for delay.",
+  "input": "Are there administrative charges for delayed payments?",
+  "output": "Administrative or penal charges may be levied as disclosed in the product agreement."
+},
+{
+  "instruction": "Explain how to avoid late payment penalties.",
+  "input": "How can I avoid late EMI charges?",
+  "output": "Ensuring sufficient balance before due date and enabling auto-debit instructions can help avoid late payment penalties."
+},
+{
+  "instruction": "Explain life insurance policy.",
+  "input": "What is a life insurance policy?",
+  "output": "A life insurance policy provides financial coverage to the nominee in the event of the policyholder's death, subject to policy terms and conditions."
+},
+{
+  "instruction": "Explain health insurance coverage.",
+  "input": "What does health insurance cover?",
+  "output": "Health insurance typically covers hospitalization expenses and defined medical treatments as specified in the policy document."
+},
+{
+  "instruction": "Explain term insurance.",
+  "input": "What is term insurance?",
+  "output": "Term insurance provides life coverage for a specified duration without maturity benefits, subject to policy terms."
+},
+{
+  "instruction": "Explain policy premium.",
+  "input": "What is insurance premium?",
+  "output": "Premium is the periodic amount paid by the policyholder to maintain insurance coverage."
+},
+{
+  "instruction": "Explain premium payment modes.",
+  "input": "How can I pay my insurance premium?",
+  "output": "Premium payments may be made through approved payment channels such as online transfer, auto-debit, or branch payment."
+},
+{
+  "instruction": "Explain premium due date.",
+  "input": "What happens if I miss my premium due date?",
+  "output": "Missing a premium due date may result in policy lapse unless payment is made within the grace period."
+},
+{
+  "instruction": "Explain grace period in insurance.",
+  "input": "Is there a grace period for insurance premium payment?",
+  "output": "Most policies provide a grace period for premium payment as defined in the policy agreement."
+},
+{
+  "instruction": "Explain policy lapse.",
+  "input": "What does policy lapse mean?",
+  "output": "A policy lapse occurs when premiums are not paid within the allowed grace period, leading to suspension of coverage."
+},
+{
+  "instruction": "Explain policy revival process.",
+  "input": "How can I revive a lapsed insurance policy?",
+  "output": "Policy revival typically requires payment of overdue premiums and completion of necessary formalities as per insurer guidelines."
+},
+{
+  "instruction": "Explain surrender value.",
+  "input": "What is policy surrender value?",
+  "output": "Surrender value refers to the amount payable to the policyholder upon voluntary termination of certain eligible policies."
+},
+{
+  "instruction": "Explain policy maturity benefit.",
+  "input": "What happens when insurance policy matures?",
+  "output": "Upon maturity, eligible policies may pay out maturity benefits as specified in the policy contract."
+},
+{
+  "instruction": "Explain nomination in insurance.",
+  "input": "How do I add a nominee to my insurance policy?",
+  "output": "Nominee addition requires submission of a formal request and updated documentation as per policy provisions."
+},
+{
+  "instruction": "Explain claim settlement process.",
+  "input": "How do I file an insurance claim?",
+  "output": "Insurance claims may be filed by submitting required documents and claim forms as specified in the policy guidelines."
+},
+{
+  "instruction": "Explain claim processing timeline.",
+  "input": "How long does insurance claim settlement take?",
+  "output": "Claim settlement timelines vary depending on documentation completeness and verification processes."
+},
+{
+  "instruction": "Explain health insurance waiting period.",
+  "input": "What is a waiting period in health insurance?",
+  "output": "Waiting period refers to the initial time during which certain claims may not be eligible under the policy."
+},
+{
+  "instruction": "Explain pre-existing disease clause.",
+  "input": "Are pre-existing diseases covered?",
+  "output": "Coverage for pre-existing conditions depends on policy terms and completion of waiting periods."
+},
+{
+  "instruction": "Explain riders in insurance.",
+  "input": "What are insurance riders?",
+  "output": "Riders are optional add-ons that enhance policy coverage for additional premium."
+},
+{
+  "instruction": "Explain policy exclusions.",
+  "input": "What is not covered in insurance policy?",
+  "output": "Policy exclusions list conditions and events that are not covered under the insurance contract."
+},
+{
+  "instruction": "Explain ULIP concept.",
+  "input": "What is a ULIP policy?",
+  "output": "ULIP (Unit Linked Insurance Plan) combines life insurance coverage with market-linked investment components."
+},
+{
+  "instruction": "Explain policy renewal process.",
+  "input": "How do I renew my insurance policy?",
+  "output": "Policy renewal requires payment of renewal premium within the stipulated timeframe."
+},
+{
+  "instruction": "Explain policy cancellation process.",
+  "input": "Can I cancel my insurance policy?",
+  "output": "Policy cancellation may be requested subject to applicable surrender conditions and policy terms."
+},
+{
+  "instruction": "Explain claim rejection reasons.",
+  "input": "Why was my insurance claim rejected?",
+  "output": "Claim rejection may occur due to incomplete documentation, policy exclusions, or non-compliance with policy terms."
+},
+{
+  "instruction": "Explain free-look period.",
+  "input": "What is a free-look period?",
+  "output": "Free-look period allows policyholders to review the policy terms and cancel within a specified timeframe if unsatisfied."
+},
+{
+  "instruction": "Explain health insurance cashless facility.",
+  "input": "What is cashless hospitalization?",
+  "output": "Cashless hospitalization allows eligible treatment expenses to be settled directly between insurer and network hospital."
+},
+{
+  "instruction": "Explain sum assured.",
+  "input": "What is sum assured in insurance?",
+  "output": "Sum assured is the maximum coverage amount payable under the insurance policy."
+},
+{
+  "instruction": "Explain KYC requirement.",
+  "input": "What is KYC verification?",
+  "output": "KYC (Know Your Customer) verification is a mandatory regulatory process requiring identity and address validation before providing financial services."
+},
+{
+  "instruction": "Explain documents required for KYC.",
+  "input": "What documents are required for KYC?",
+  "output": "KYC documentation typically includes valid identity proof, address proof, and recent photographs as per regulatory guidelines."
+},
+{
+  "instruction": "Explain online KYC process.",
+  "input": "Can I complete KYC online?",
+  "output": "Online KYC may be completed through digital verification methods subject to regulatory approval and internal policy."
+},
+{
+  "instruction": "Explain video KYC process.",
+  "input": "What is video KYC?",
+  "output": "Video KYC is a remote identity verification process conducted via secure video interaction as per regulatory standards."
+},
+{
+  "instruction": "Explain periodic KYC update requirement.",
+  "input": "Why am I asked to update my KYC again?",
+  "output": "Periodic KYC updates are required to maintain compliance with regulatory requirements and ensure accurate customer records."
+},
+{
+  "instruction": "Explain consequences of incomplete KYC.",
+  "input": "What happens if I don't complete KYC?",
+  "output": "Incomplete KYC may result in temporary restrictions on account transactions until verification is completed."
+},
+{
+  "instruction": "Explain address proof update.",
+  "input": "How can I update my address proof?",
+  "output": "Address proof updates require submission of valid documentation and verification as per compliance guidelines."
+},
+{
+  "instruction": "Explain ID proof mismatch issue.",
+  "input": "What if my ID proof details do not match bank records?",
+  "output": "Discrepancies in identity details must be rectified by submitting updated and valid documentation."
+},
+{
+  "instruction": "Explain PAN requirement for banking.",
+  "input": "Is PAN mandatory for opening an account?",
+  "output": "PAN or prescribed alternative documentation may be required as per regulatory requirements."
+},
+{
+  "instruction": "Explain Aadhaar linking process.",
+  "input": "Do I need to link Aadhaar to my bank account?",
+  "output": "Aadhaar linking requirements depend on prevailing regulatory guidelines and applicable policies."
+},
+{
+  "instruction": "Explain business KYC documentation.",
+  "input": "What documents are required for business account KYC?",
+  "output": "Business KYC may require registration certificates, address proof, authorized signatory identification, and compliance documents."
+},
+{
+  "instruction": "Explain source of funds verification.",
+  "input": "Why do banks ask for source of funds?",
+  "output": "Source of funds verification is part of regulatory compliance to ensure transparency and prevent financial irregularities."
+},
+{
+  "instruction": "Explain high-risk customer verification.",
+  "input": "Why was my account marked for enhanced due diligence?",
+  "output": "Enhanced due diligence may be required for high-risk classifications as part of regulatory compliance procedures."
+},
+{
+  "instruction": "Explain document verification timeline.",
+  "input": "How long does KYC verification take?",
+  "output": "KYC verification timelines depend on documentation completeness and internal review processes."
+},
+{
+  "instruction": "Explain re-KYC process.",
+  "input": "What is re-KYC?",
+  "output": "Re-KYC is the periodic re-validation of customer identity and address information as required by regulatory authorities."
+},
+{
+  "instruction": "Explain update of occupation details.",
+  "input": "Why do I need to update my occupation details?",
+  "output": "Occupation details are required for regulatory reporting and risk assessment purposes."
+},
+{
+  "instruction": "Explain FATCA declaration.",
+  "input": "What is FATCA declaration?",
+  "output": "FATCA declaration is a regulatory compliance requirement related to foreign account reporting obligations."
+},
+{
+  "instruction": "Explain PEP classification.",
+  "input": "What does Politically Exposed Person status mean?",
+  "output": "Politically Exposed Person classification requires additional compliance checks under regulatory norms."
+},
+{
+  "instruction": "Explain document rejection reasons.",
+  "input": "Why was my KYC document rejected?",
+  "output": "KYC documents may be rejected due to unclear copies, expired validity, or information mismatch."
+},
+{
+  "instruction": "Explain customer identification program.",
+  "input": "What is a customer identification program?",
+  "output": "Customer identification programs are designed to verify identity and prevent financial misuse in compliance with regulations."
+},
+{
+  "instruction": "Explain failed transaction scenario.",
+  "input": "My online payment failed but money was deducted. What should I do?",
+  "output": "In case of a failed transaction with deduction, funds are typically reversed within defined timelines. If not credited, please raise a service request for investigation."
+},
+{
+  "instruction": "Explain transaction reversal timeline.",
+  "input": "How long does refund take for failed transaction?",
+  "output": "Refund timelines vary based on payment channel and regulatory settlement cycles."
+},
+{
+  "instruction": "Explain duplicate payment scenario.",
+  "input": "I was charged twice for the same transaction.",
+  "output": "Duplicate transactions may be investigated upon complaint. If confirmed, applicable reversals are processed as per guidelines."
+},
+{
+  "instruction": "Explain ATM transaction failure.",
+  "input": "ATM did not dispense cash but amount was debited.",
+  "output": "ATM cash dispense failures are automatically reconciled. If funds are not reversed within the prescribed period, please contact customer support."
+},
+{
+  "instruction": "Explain UPI failure.",
+  "input": "Why did my UPI payment fail?",
+  "output": "UPI payment failures may occur due to network issues, insufficient balance, or bank server delays."
+},
+{
+  "instruction": "Explain unauthorized transaction reporting.",
+  "input": "I see an unknown transaction in my account.",
+  "output": "Unauthorized transactions must be reported immediately through official channels to initiate investigation and necessary protective measures."
+},
+{
+  "instruction": "Explain card transaction decline.",
+  "input": "Why was my card declined?",
+  "output": "Card transactions may be declined due to insufficient funds, security triggers, or transaction limits."
+},
+{
+  "instruction": "Explain payment gateway error.",
+  "input": "Why am I getting payment gateway error?",
+  "output": "Payment gateway errors may arise due to connectivity issues or technical disruptions."
+},
+{
+  "instruction": "Explain wrong beneficiary transfer.",
+  "input": "I transferred money to wrong account.",
+  "output": "Incorrect transfers should be reported immediately. Recovery depends on beneficiary bank cooperation and regulatory procedures."
+},
+{
+  "instruction": "Explain transaction dispute process.",
+  "input": "How can I dispute a transaction?",
+  "output": "Transaction disputes can be raised by submitting a formal complaint through customer service along with relevant details."
+},
+{
+  "instruction": "Explain refund status check.",
+  "input": "How can I check refund status?",
+  "output": "Refund status can be tracked through transaction history or by contacting customer support."
+},
+{
+  "instruction": "Explain NEFT/RTGS delay.",
+  "input": "Why is my bank transfer delayed?",
+  "output": "Fund transfer delays may occur due to banking cut-off timings or interbank processing schedules."
+},
+{
+  "instruction": "Explain IMPS transaction failure.",
+  "input": "My IMPS transfer failed. What next?",
+  "output": "Failed IMPS transactions are generally reversed automatically within defined timeframes."
+},
+{
+  "instruction": "Explain insufficient balance rejection.",
+  "input": "Why was my transaction rejected for insufficient funds?",
+  "output": "Transactions may be declined if available balance does not cover the transaction amount including applicable charges."
+},
+{
+  "instruction": "Explain limit exceeded transaction error.",
+  "input": "Why did I get transaction limit exceeded message?",
+  "output": "Transactions exceeding daily or per-transaction limits may be declined as per security settings."
+},
+{
+  "instruction": "Explain chargeback process.",
+  "input": "What is a chargeback?",
+  "output": "A chargeback is a dispute initiated to reverse a card transaction after investigation under prescribed procedures."
+},
+{
+  "instruction": "Explain online banking login failure.",
+  "input": "I cannot log into my online banking.",
+  "output": "Login issues may occur due to incorrect credentials, temporary lockout, or system maintenance."
+},
+{
+  "instruction": "Explain OTP not received issue.",
+  "input": "I am not receiving OTP.",
+  "output": "OTP delivery issues may arise due to network delays or mobile number registration errors."
+},
+{
+  "instruction": "Explain blocked card due to suspicious activity.",
+  "input": "Why was my card blocked?",
+  "output": "Cards may be temporarily blocked if suspicious activity is detected for security protection."
+},
+{
+  "instruction": "Explain refund not credited.",
+  "input": "Refund was processed but not reflected in my account.",
+  "output": "Processed refunds may take prescribed settlement time to reflect. Please verify transaction reference details."
+},
+{
+  "instruction": "Respond to complaint about service delay.",
+  "input": "My issue has not been resolved for weeks.",
+  "output": "We regret the delay. Your concern will be reviewed with priority. Please provide reference details for further assistance."
+},
+{
+  "instruction": "Respond to customer dissatisfaction.",
+  "input": "I am not satisfied with the service provided.",
+  "output": "We apologize for any inconvenience caused. Your feedback is important and will be reviewed for resolution."
+},
+{
+  "instruction": "Provide escalation process details.",
+  "input": "How can I escalate my complaint?",
+  "output": "Complaints may be escalated through official grievance channels or designated escalation officers as per policy."
+},
+{
+  "instruction": "Explain grievance redressal mechanism.",
+  "input": "What is the grievance redressal process?",
+  "output": "The grievance redressal mechanism allows customers to raise complaints which are reviewed within prescribed service timelines."
+},
+{
+  "instruction": "Respond to rude staff complaint.",
+  "input": "The bank staff was rude to me.",
+  "output": "We apologize for your experience. This matter will be reviewed internally to ensure service quality standards are maintained."
+},
+{
+  "instruction": "Respond to refund delay complaint.",
+  "input": "My refund is still not processed.",
+  "output": "We understand your concern. Refund status will be reviewed and communicated after verification."
+},
+{
+  "instruction": "Explain complaint tracking.",
+  "input": "How do I track my complaint status?",
+  "output": "Complaint status may be tracked using the reference number provided at the time of submission."
+},
+{
+  "instruction": "Respond to account freeze complaint.",
+  "input": "My account is blocked and I am facing issues.",
+  "output": "We regret the inconvenience. Account restrictions are generally placed for compliance or security reasons. Verification assistance will be provided."
+},
+{
+  "instruction": "Respond to high penalty complaint.",
+  "input": "Why was I charged such high penalty?",
+  "output": "Penalty charges are applied as per agreed terms. However, your concern may be reviewed upon request."
+},
+{
+  "instruction": "Explain complaint resolution timeline.",
+  "input": "How long does complaint resolution take?",
+  "output": "Resolution timelines vary based on case complexity and are communicated during complaint registration."
+},
+{
+  "instruction": "Respond to policy misunderstanding.",
+  "input": "I was not informed about this policy earlier.",
+  "output": "Policy terms are documented in official communications. We can assist in reviewing the relevant clauses."
+},
+{
+  "instruction": "Explain ombudsman escalation.",
+  "input": "Can I approach the banking ombudsman?",
+  "output": "Customers may approach the designated ombudsman if unsatisfied with internal grievance resolution."
+},
+{
+  "instruction": "Respond to fraudulent activity complaint.",
+  "input": "Someone used my card without permission.",
+  "output": "Unauthorized activity should be reported immediately. Investigation will be initiated as per security procedures."
+},
+{
+  "instruction": "Respond to EMI miscalculation complaint.",
+  "input": "My EMI seems incorrectly calculated.",
+  "output": "We will review the amortization schedule and confirm accuracy based on sanctioned loan terms."
+},
+{
+  "instruction": "Respond to account closure delay complaint.",
+  "input": "My account closure request is pending.",
+  "output": "We regret the delay. Closure requests are processed after verification and settlement of outstanding balances."
+},
+{
+  "instruction": "Explain savings account.",
+  "input": "What is a savings account?",
+  "output": "A savings account is a deposit account that allows customers to store funds securely while earning applicable interest as per policy terms."
+},
+{
+  "instruction": "Explain current account.",
+  "input": "What is a current account?",
+  "output": "A current account is designed primarily for business transactions with higher transaction limits and typically without interest accrual."
+},
+{
+  "instruction": "Explain recurring deposit.",
+  "input": "What is a recurring deposit?",
+  "output": "A recurring deposit allows customers to deposit a fixed amount periodically for a defined tenure to earn interest."
+},
+{
+  "instruction": "Explain fixed deposit.",
+  "input": "What is a fixed deposit?",
+  "output": "A fixed deposit is an investment product where funds are deposited for a predetermined tenure at an agreed interest rate."
+},
+{
+  "instruction": "Explain net banking.",
+  "input": "What is net banking?",
+  "output": "Net banking is an online platform that allows customers to manage accounts, transfer funds, and access banking services digitally."
+},
+{
+  "instruction": "Explain mobile banking.",
+  "input": "What is mobile banking?",
+  "output": "Mobile banking enables customers to conduct banking transactions and access services through a secure mobile application."
+},
+{
+  "instruction": "Explain debit card usage.",
+  "input": "How does a debit card work?",
+  "output": "A debit card allows customers to access funds directly from their linked bank account for purchases or withdrawals."
+},
+{
+  "instruction": "Explain credit card concept.",
+  "input": "What is a credit card?",
+  "output": "A credit card provides a revolving credit facility that allows customers to borrow funds up to a defined limit."
+},
+{
+  "instruction": "Explain bank statement purpose.",
+  "input": "What is a bank statement?",
+  "output": "A bank statement records all transactions in an account during a specified period."
+},
+{
+  "instruction": "Explain IFSC code.",
+  "input": "What is IFSC code?",
+  "output": "IFSC code is an alphanumeric identifier used to route electronic fund transfers between banks."
+},
+{
+  "instruction": "Explain cheque clearing process.",
+  "input": "How does cheque clearing work?",
+  "output": "Cheque clearing involves verification and interbank processing before funds are credited to the beneficiary account."
+},
+{
+  "instruction": "Explain nominee importance.",
+  "input": "Why is adding a nominee important?",
+  "output": "Adding a nominee ensures smooth transfer of funds to the designated individual in case of unforeseen events."
+},
+{
+  "instruction": "Explain bank holidays impact.",
+  "input": "Do bank holidays affect transactions?",
+  "output": "Certain transactions may be processed on the next working day if initiated during bank holidays."
+},
+{
+  "instruction": "Explain minimum balance charges.",
+  "input": "What happens if I don't maintain minimum balance?",
+  "output": "Failure to maintain minimum balance may result in applicable service charges as defined in account terms."
+},
+{
+  "instruction": "Explain bank working hours.",
+  "input": "What are bank working hours?",
+  "output": "Bank working hours vary by branch and are communicated through official channels."
+},
+{
+  "instruction": "Explain customer ID.",
+  "input": "What is customer ID in banking?",
+  "output": "Customer ID is a unique identifier assigned to each customer for account management purposes."
+},
+{
+  "instruction": "Explain transaction reference number.",
+  "input": "What is a transaction reference number?",
+  "output": "A transaction reference number is a unique code generated for tracking financial transactions."
+},
+{
+  "instruction": "Explain standing instruction.",
+  "input": "What is a standing instruction?",
+  "output": "Standing instruction is an authorization provided to the bank to execute recurring transactions automatically."
+},
+{
+  "instruction": "Explain bank overdraft.",
+  "input": "What is overdraft facility?",
+  "output": "Overdraft facility allows eligible customers to withdraw funds exceeding available balance up to an approved limit."
+},
+{
+  "instruction": "Explain service request registration.",
+  "input": "How do I raise a service request?",
+  "output": "Service requests may be submitted through official digital channels, customer care helpline, or branch visits."
+}
+]
